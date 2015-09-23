@@ -19,6 +19,6 @@
     "leaflet-geometryutil": "*"
   }
   , "optionalDependencies": {
-    "leaflet-draw": "*",
+    "leaflet-draw": "*"
   }
 }
